@@ -1,6 +1,6 @@
 # Dog Behavior App
 
-I’m collaborating with [Jack's Dog Behavior and Training](https://www.instagram.com/jacksdogbehaviourandtraining/) to develop a dog behavior app!
+Me and [Jack's Dog Behavior and Training](https://www.instagram.com/jacksdogbehaviourandtraining/) colloborated for half a year to create a dog behaviour app. After, I retired from the project to focus on my own projects. 
 
 </br>
 
